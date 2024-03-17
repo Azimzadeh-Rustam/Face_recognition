@@ -1,4 +1,4 @@
-!known_faces/Rustam.jpg
 known_faces/
 .venv
 .env
+test.py
